@@ -12,7 +12,7 @@ target/
 .idea/libraries/
 *.iws
 *.iml
-*.idea
+.idea
 *.ipr
 out/
 !**/src/main/**/out/
